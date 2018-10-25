@@ -1,0 +1,41 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+
+{
+    "status": "ok",
+    "message": null,
+    "data": [
+        {
+            "id": 1,
+            "name": "Tiyatro",
+            "orderNumber": 0,
+            "status": 0,
+            "createdAt": "2018-08-17T15:09:15.000Z",
+            "updatedAt": null
+        },
+        {
+            "id": 2,
+            "name": "Doğaçlama Tiyatro",
+            "orderNumber": 0,
+            "status": 0,
+            "createdAt": "2018-08-17T15:09:15.000Z",
+            "updatedAt": null
+        },
+        {
+            "id": 3,
+            "name": "Sinema",
+            "orderNumber": 0,
+            "status": 0,
+            "createdAt": "2018-08-17T15:09:15.000Z",
+            "updatedAt": null
+        },
+        {
+            "id": 4,
+            "name": "Stand-Up",
+            "orderNumber": 0,
+            "status": 0,
+            "createdAt": "2018-08-17T15:09:15.000Z",
+            "updatedAt": null
+        }
+    ]
+}

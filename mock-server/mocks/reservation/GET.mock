@@ -1,0 +1,36 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+
+{
+    "status": "ok",
+    "message": null,
+    "data": [
+        {
+            "id": 102,
+            "sessionUser": 1,
+            "guestCount": 2,
+            "projectId": 1,
+            "eventId": 8,
+            "createdAt": "2018-10-17T18:51:39.000Z",
+            "updatedAt": "2018-10-17T18:51:39.000Z"
+        },
+        {
+            "id": 103,
+            "sessionUser": 1,
+            "guestCount": 1,
+            "projectId": 1,
+            "eventId": 8,
+            "createdAt": "2018-10-17T18:58:22.000Z",
+            "updatedAt": "2018-10-17T18:58:22.000Z"
+        },
+        {
+            "id": 104,
+            "sessionUser": 1,
+            "guestCount": 2,
+            "projectId": 1,
+            "eventId": 8,
+            "createdAt": "2018-10-17T19:04:52.000Z",
+            "updatedAt": "2018-10-17T19:04:52.000Z"
+        }
+    ]
+}

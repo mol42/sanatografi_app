@@ -1,0 +1,86 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+
+{
+    "status": "ok",
+    "message": null,
+    "data": [
+        {
+            "id": 1,
+            "categoryId": 2,
+            "name": "Gönder Gelsin",
+            "frontPicture": "http://46.101.162.248:4200/gg.2160-864.jpg",
+            "shortDescription": "Yerimizde duramadığımız, asla ne olacağımızı ve başımıza neler geleceğini kestiremediğimiz doğaçlama tiyatro gösterimiz.",
+            "longDescription": "Siz hiç uzayda simit satan birini gördünüz mü, siz hiç tüp bebeği tüp doğan  birine şahit oldunuz mu, siz hiç 3022'ye ışınlanan insanlara rastladınız mı? Yerimizde duramadığımız, asla ne olacağımızı ve başımıza neler geleceğini kestiremediğimiz doğaçlama tiyatro gösterimiz: GÖNDER  GELSİN",
+            "status": 0,
+            "createdAt": "2018-09-29T21:56:44.000Z",
+            "updatedAt": null
+        },
+        {
+            "id": 2,
+            "categoryId": 1,
+            "name": "Prömiyer",
+            "frontPicture": "http://46.101.162.248:4200/promiyer.2160-864.jpg",
+            "shortDescription": "Yazarlar kafasıyla konuşur. Kafasıyla sohbet eder, kavga eder, aşk yaşarlar. Bazen de küserler kafalarının içine.",
+            "longDescription": "Yazarlar kafasıyla konuşur. Kafasıyla sohbet eder, kavga eder, aşk yaşarlar. Bazen de küserler kafalarının içine. Kelimelerse, yazarların kafalarındaki yanardağdan taşan lavlardır. Yanmak isteyen bir dağın önünde hiçbir şey durmamalıdır. Yanardağlar engellenmemelidir. Yanardağlar sansürlenmemelidir. Yanardağlar özgür olmalıdır. Yüksek yüksek koltuklarda oturanlar, yanardağlardan tencere imal etmek isterler bu ülkede. Halbuki devasa, kızgın bir yanardağ yusyuvarlak cam bir kapakla kapatılmamalıdır. Yalandan da ufacık bir delik açılmamalıdır o kapağa. Yanan bir dağa tencere muamelesi yapılırsa eğer, normal bir tencereye dönüşemez ki o dağ. O koru ancak bir düdük engelleyebilir belki. Ama çözüm, bir dağa kapak kapatmakta değildir. Hem zaten patlayan bir düdüklü tencere, koskoca bir yanardağdan daha tehlikeli olabilir insanlık için. Haydi, hep beraber bağıralım: Yanardağlara ve düdüklü tencerelere özgürlük!",
+            "status": 0,
+            "createdAt": "2018-09-29T21:59:50.000Z",
+            "updatedAt": null
+        },
+        {
+            "id": 3,
+            "categoryId": 3,
+            "name": "Rekabet",
+            "frontPicture": "http://46.101.162.248:4200/rekabet.jpg",
+            "shortDescription": "Şokokap Belediyesi’nin dilenciler için ayırdığı bölgede iki dilenci bulunmaktadır.",
+            "longDescription": "Şokokap Belediyesi’nin dilenciler için ayırdığı bölgede iki dilenci bulunmaktadır. Bu dilenciler kendilerine para vermek için niyetlenen adamın parasını almak için uğraşırlar. Her seferinde yeni taktikler denerler ama başarılı olmazlar. Sonunda o adamdan umutlarını kesen dilenciler, paradan kazanmak için daha önemli bir şey öğrenirler.",
+            "status": 0,
+            "createdAt": "2018-09-25T21:12:08.000Z",
+            "updatedAt": null
+        },
+        {
+            "id": 4,
+            "categoryId": 3,
+            "name": "Aileniz İçin",
+            "frontPicture": "http://46.101.162.248:4200/ailenizicin.jpg",
+            "shortDescription": "İş'teyken, iş işten geçmeden neler yapmalıyız acaba?",
+            "longDescription": "Çalışırken aldığımız önlemlerle sadece kendimizi koruruz gerçekten? Ufak bir dikkatsizlikle kendi hayatımızı mı karartırız sadece? İş'teyken, iş işten geçmeden neler yapmalıyız acaba? ",
+            "status": 0,
+            "createdAt": "2018-09-25T21:12:08.000Z",
+            "updatedAt": null
+        },
+        {
+            "id": 5,
+            "categoryId": 4,
+            "name": "Neyim Normal Ki? (TEST)",
+            "frontPicture": "http://46.101.162.248:4200/nnk.2160-864.jpg",
+            "shortDescription": "Dünya’ya geliş amacı çobanlık olan bir çocuğun, ODTÜ İnşaat Mühendisliği’ne uzanan garip hikayesi.",
+            "longDescription": "Dünya’ya geliş amacı çobanlık olan bir çocuğun, ODTÜ İnşaat Mühendisliği’ne uzanan garip hikayesi. Sonra da ver elini Afrika diyerek, 3 senesini ormanların içinde çalışarak harcıyor. Doğumundan beri normal olmayan bir sürü hikâye yani. ",
+            "status": 0,
+            "createdAt": "2018-10-14T05:25:45.000Z",
+            "updatedAt": null
+        },
+        {
+            "id": 6,
+            "categoryId": 5,
+            "name": "MMO",
+            "frontPicture": "http://46.101.162.248:4200/mmo.2160-864.jpg",
+            "shortDescription": "Yaratıcı Drama, bir oyun oynama alanıdır. ",
+            "longDescription": "Yaratıcı Drama, bir oyun oynama alanıdır. Bir grubu oluşturan kişilerin yaşanmışlıklarını oyunun ham maddesi olarak kullanır. Kurgusuz oynanan ve tamamen anlık gelişen bu oyunlar bireyin \"kişisel gelişim\"ini olumlu yönde etkiler. Üstelik bireyler bu süre zarfında kendini geliştirmek için çaba sarf etmezler. Çocukken sokaklarda oynadıkları gibi sadece oyun oynarlar.",
+            "status": 0,
+            "createdAt": "2018-09-29T21:56:44.000Z",
+            "updatedAt": null
+        },
+        {
+            "id": 7,
+            "categoryId": 6,
+            "name": "MMO Çocuk",
+            "frontPicture": "http://46.101.162.248:4200/mmococuk.2160-864.jpg",
+            "shortDescription": "Modern Muzip Çocuk Oyunları",
+            "longDescription": "Oyuncu ve Drama Eğitmeni Merve Polat'ın oyunu, hayal gücü ve sanatın çeşitli dallarıyla harmanlayarak oluşturduğu Modern Muzip Çocuk Oyunları Atölyesi başlıyor.\n\nÜÇ GÜNE, ÜÇ KONSEPT!\n\nAnlat, Oynat, Kendi oyununu yarat\nDinle, Hayal Kur, Kendi resmini oluştur\nİzle, Düşle, Kendini Şarkını Söyle",
+            "status": 0,
+            "createdAt": "2018-09-29T21:59:50.000Z",
+            "updatedAt": null
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+
+{
+    "status": "ok",
+    "message": null,
+    "data": [
+        {
+            "id": 1,
+            "projectId": 7,
+            "type": 1,
+            "ratio": null,
+            "url": "http://46.101.162.248:4200/mmococuk.2160-1350.jpg",
+            "deleted": null,
+            "createdAt": "2018-09-29T21:59:46.000Z",
+            "updatedAt": null
+        },
+        {
+            "id": 2,
+            "projectId": 1,
+            "type": 1,
+            "ratio": null,
+            "url": "http://46.101.162.248:4200/gg.2160-1350.jpg",
+            "deleted": null,
+            "createdAt": "2018-09-29T21:59:46.000Z",
+            "updatedAt": null
+        },
+        {
+            "id": 3,
+            "projectId": 6,
+            "type": 1,
+            "ratio": null,
+            "url": "http://46.101.162.248:4200/mmo.2160-1350.jpg",
+            "deleted": null,
+            "createdAt": "2018-09-29T21:59:46.000Z",
+            "updatedAt": null
+        },
+        {
+            "id": 4,
+            "projectId": 2,
+            "type": 1,
+            "ratio": null,
+            "url": "http://46.101.162.248:4200/promiyer.2160-1350.jpg",
+            "deleted": null,
+            "createdAt": "2018-09-29T21:59:46.000Z",
+            "updatedAt": null
+        },
+        {
+            "id": 5,
+            "projectId": 3,
+            "type": 1,
+            "ratio": null,
+            "url": "http://46.101.162.248:4200/rekabet.jpg",
+            "deleted": null,
+            "createdAt": "2018-09-25T21:09:44.000Z",
+            "updatedAt": null
+        },
+        {
+            "id": 6,
+            "projectId": 4,
+            "type": 1,
+            "ratio": null,
+            "url": "http://46.101.162.248:4200/ailenizicin.jpg",
+            "deleted": null,
+            "createdAt": "2018-09-25T21:09:44.000Z",
+            "updatedAt": null
+        },
+        {
+            "id": 7,
+            "projectId": 5,
+            "type": 1,
+            "ratio": null,
+            "url": "http://46.101.162.248:4200/nnk.2160-1350.jpg",
+            "deleted": null,
+            "createdAt": "2018-09-29T21:59:46.000Z",
+            "updatedAt": null
+        },
+        {
+            "id": 8,
+            "projectId": 6,
+            "type": 1,
+            "ratio": null,
+            "url": "http://46.101.162.248:4200/mmo2.jpg",
+            "deleted": null,
+            "createdAt": "2018-09-25T21:09:44.000Z",
+            "updatedAt": null
+        }
+    ]
+}

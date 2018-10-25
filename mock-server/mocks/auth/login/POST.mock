@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+
+{
+    "status": "ok",
+    "message": null,
+    "data": {
+        "user": {
+            "id": 1,
+            "name": "bugra",
+            "lastName": "cakir",
+            "email": "123456@123.com",
+            "phone": "123456"
+        },
+        "xAuthToken": "c840eb31-4d95-4096-a4a0-e7b9c51ab2fb"
+    }
+}

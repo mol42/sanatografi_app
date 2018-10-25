@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+
+{
+    "status": "ok",
+    "message": null,
+    "data": {
+        "success": true,
+        "message": "Etkinliğe 2 kişilik biletiniz rezerve edilmiştir. Vermiş olduğunuz iletişim bilgileriyle sizinle irtibata geçilecektir. Teşekkürler!"
+    }
+}

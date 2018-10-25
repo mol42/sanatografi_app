@@ -1,0 +1,79 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+
+{
+    "status": "ok",
+    "message": null,
+    "data": [
+        {
+            "id": 5,
+            "projectId": 5,
+            "date": "2018-10-13T18:00:00.000Z",
+            "dateText": "2018-10-13 21:00",
+            "location": "Kadıköy Bahane Kültür",
+            "note": "Stand-up Gösterisi\nOyuncu: Erdal Şahin\nEtkinlikte 18 yaş sınırı vardır\nBilet: 30TL",
+            "status": 1,
+            "quota": 55,
+            "max": 8,
+            "reserved": null,
+            "createdAt": "2018-10-13T12:36:00.000Z",
+            "updatedAt": null
+        },
+        {
+            "id": 6,
+            "projectId": 6,
+            "date": "2018-10-08T17:00:00.000Z",
+            "dateText": "2018-10-08 20:00",
+            "location": "Sanatografi Atölye",
+            "note": "Yaratıcı Drama Atölyesi\nEğitmen : Burak Kurtuluş-Sinem Duralar\nDetaylı bilgi icin\n0 (531) 400 76 99",
+            "status": 1,
+            "quota": 12,
+            "max": 1,
+            "reserved": null,
+            "createdAt": "2018-10-13T12:36:00.000Z",
+            "updatedAt": null
+        },
+        {
+            "id": 7,
+            "projectId": 1,
+            "date": "2018-10-10T17:00:00.000Z",
+            "dateText": "2018-10-10 20:00",
+            "location": "Kadıköy Penguen Sahne",
+            "note": "Doğaçlama Tiyatro Gösterisi  \nOyuncular\nBurak Kurtuluş\nFatih Karahasanoğlu\nHilal İrem Onurlu\nHaydar Kuduz \nMehmet Aslan Yersel\nNazlı Ceren Atay\nSinem Duralar\nKonuk Oyuncu : Metin Baturhan Duygu\nModeratör : Uğur Tunca\nIşık-Ses Tasarım : Atakan Şen",
+            "status": 1,
+            "quota": 60,
+            "max": 8,
+            "reserved": null,
+            "createdAt": "2018-10-13T12:36:00.000Z",
+            "updatedAt": null
+        },
+        {
+            "id": 8,
+            "projectId": 1,
+            "date": "2018-10-31T17:00:00.000Z",
+            "dateText": "2018-10-31 20:00",
+            "location": "Kadıköy Penguen Sahne",
+            "note": "Doğaçlama Tiyatro Gösterisi \nBilet: 20TL\nOyuncular\nBurak Kurtuluş\nFatih Karahasanoğlu\nHaydar Kuduz\nHilal İrem Onurlu\nMehmet Aslan Yersel\nNazlı Ceren Atay\nSinem Duralar\nUğur Hersek\nModeratör : Uğur Tunca\nIşık-Ses Tasarım : Atakan Şen",
+            "status": 1,
+            "quota": 60,
+            "max": 8,
+            "reserved": null,
+            "createdAt": "2018-10-13T12:36:00.000Z",
+            "updatedAt": null
+        },
+        {
+            "id": 9,
+            "projectId": 6,
+            "date": "2018-10-17T17:00:00.000Z",
+            "dateText": "2018-10-17 20:00",
+            "location": "Sanatografi Atölye",
+            "note": "Yaratıcı Drama Atölyesi\nEğitmenler : Burak Kurtuluş-Sinem Duralar\nİlk ders ücretsizdir.\nDetaylı bilgi icin\n0 (531) 400 76 99",
+            "status": 1,
+            "quota": 12,
+            "max": 1,
+            "reserved": null,
+            "createdAt": "2018-10-13T12:36:00.000Z",
+            "updatedAt": null
+        }
+    ]
+}
