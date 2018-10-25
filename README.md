@@ -31,6 +31,8 @@ yer alan `localhost` adresini `10.0.2.2` olarak değiştirmeniz gerekiyor !
 
 ## İletişim için
 
+www.mol42.com
+
 info[at]mol42.co.uk
 
 tayfun[at]mol42.com
